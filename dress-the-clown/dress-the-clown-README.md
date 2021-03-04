@@ -79,17 +79,6 @@ Now comes the part where we bring all the pieces together.
 
 Once that's working, you're done! Push your code up to github and you can dress the clown to your heart's content! Awesome job!
 
-## Reflection
-
-Open `my-reflections-sprint-5.md` in VS Code, add a `Dress a Clown` heading, and add the following reflection questions from this challenge.
-
-- How did you find the process of refactoring your code? 
-
-- Would you do anything differently if you were to start this challenge again?
-
-- What piece of code are you proudest of from this exercise? 
-
-Commit and push to GitHub.
 
 ## Stretch
 
